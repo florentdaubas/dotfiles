@@ -1,16 +1,31 @@
 {
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "ApplySyntax",
-    "BracketHighlighter",
-    "Emmet",
-    "Git",
-    "GitGutter",
-    "JSX",
-    "Package Control",
-    "SCSS",
-    "ERB Snippets"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"ApplySyntax",
+		"Babel",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"Emmet Css Snippets",
+		"ERB Snippets",
+		"Find++",
+		"Git",
+		"GitGutter",
+		"HTML Boilerplate",
+		"HTMLBeautify",
+		"JSX",
+		"Package Control",
+		"SCSS",
+		"SCSS Compiler",
+		"SideBarEnhancements",
+		"Simple JSX",
+		"Theme - Cobalt2"
+	]
 }
